@@ -1,5 +1,3 @@
-function toaster() {
-    document.write(" 1 2 3 4 5 6 7 8 9 10 11 12 13")
-}
-
-toaster();
+let num1 = Number(prompt(`1st Digit?`));
+let operator = prompt(`Operator?`);
+let num2 = Number(prompt(`2nd Number`));
